@@ -1,7 +1,7 @@
 # Test python file
 *.test.py
 test.py
-*.txt
+#*.txt
 *.jpg
 *.png
 *.pdf
