@@ -6,6 +6,7 @@ test.py
 *.png
 *.pdf
 chromedriver
+phantomjs
 ridi.py
 
 # tmp folder
